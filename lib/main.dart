@@ -1,4 +1,4 @@
-import 'package:flare_exmples/penguin_dance/penguin_dance.dart';
+import 'package:flare_examples/penguin_dance/penguin_dance.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
